@@ -60,7 +60,7 @@ function play(real, given){
         play(realAnswer, givenAns);    
         console.log("------------------\n");
         if(score == 4){
-            console.log("oh!, you are good at this. Let's see if u can handle this\n\n\n\n\n\n\n\n\n")
+            console.log("oh!, you are good at this. Let's see if u can handle this\n\n\n")
             console.log("-----ugrading to LEVEL 2------");
             ;}
     //     }else{
